@@ -1,10 +1,14 @@
-# Getting Started with Create React App
-THIS IS JUST A SIMPLE CHAT BOT 
-There is no backend.
-You can add people, and send messages to them
-and change your profile pic
+LINK TO APP :
+  https://quizzical-williams-b2c076.netlify.app/
 
- -- (SEE "REPLIES" IN SCRIPT.JS)
+THIS IS JUST A SIMPLE CHAT BOT 
+There is no backend. There are very less features.
+
+1) You can add people, and send messages to them
+2) Change your profile pic
+3) View information about the person.
+4) SEE "REPLIES" in script.js to change what replies the bot will give.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
