@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+THIS IS JUST A SIMPLE CHAT BOT 
+There is no backend.
+You can add people, and send messages to them
+and change your profile pic
+
+ -- (SEE "REPLIES" IN SCRIPT.JS)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
